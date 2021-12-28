@@ -1,0 +1,3 @@
+D:\Учеба\2\Lab2OOP-master\Lab2OOP-master\Lab2OOP\obj\Debug\Lab1OOP.Properties.Resources.resources
+D:\Учеба\2\Lab2OOP-master\Lab2OOP-master\Lab2OOP\obj\Debug\Lab1OOP.csproj.GenerateResource.cache
+D:\Учеба\2\Lab2OOP-master\Lab2OOP-master\Lab2OOP\obj\Debug\Lab1OOP.csproj.CoreCompileInputs.cache
